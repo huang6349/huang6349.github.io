@@ -2,6 +2,7 @@
 title: JavaScript 语言
 date: 2018-05-24 18:19:26
 tags: JavaScript
+updated: 2018-05-24 18:59:20
 ---
 
 > 注：摘抄自[dva.js 知识导图](https://github.com/dvajs/dva-knowledgemap)
@@ -19,7 +20,17 @@ let count = 0;
 count = count + 1;
 ```
 
-### 模板字符串
+### 默认参数
+
+```javascript
+function logActivity(activity = 'skiing') {
+  console.log(activity);
+}
+
+logActivity();  // skiing
+```
+
+## 模板字符串
 
 模板字符串提供了另一种做字符串组合的方法。
 
@@ -32,16 +43,6 @@ const content = `
   Hello ${firstName},
   Thanks for ordering ${qty} tickets to ${event}.
 `;
-```
-
-### 默认参数
-
-```javascript
-function logActivity(activity = 'skiing') {
-  console.log(activity);
-}
-
-logActivity();  // skiing
 ```
 
 ## 箭头函数
@@ -229,3 +230,5 @@ delay(1000).then(_ => {
   console.log('executed');
 });
 ```
+
+-EOF-

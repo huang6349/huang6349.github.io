@@ -2,6 +2,7 @@
 title: JavaScript 语言
 date: 2018-05-24 18:19:26
 tags: JavaScript
+categories: 前端知识
 updated: 2018-05-24 18:59:20
 ---
 

@@ -3,6 +3,7 @@ title: WINDOWS平台下MySQL的安装和配置
 date: 2018-05-25 13:10:06
 tags: MySQL
 categories: 数据库
+updated: 2018-05-25 13:52:20
 ---
 
 ## MySQL的安装
@@ -210,3 +211,5 @@ sql_mode=NO_ENGINE_SUBSTITUTION,STRICT_TRANS_TABLES
 再次查询root用户的权限，这次已经多了一个`%`的权限了
 
 ![MySQL](WINDOWS平台下MySQL的安装和配置/28.png)
+
+-EOF-

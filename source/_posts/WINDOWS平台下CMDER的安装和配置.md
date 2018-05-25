@@ -3,7 +3,7 @@ title: WINDOWS平台下CMDER的安装和配置
 date: 2018-05-25 13:38:37
 tags: cmder
 categories: 开发工具
-updated: 2018-05-25 13:54:16
+updated: 2018-05-25 14:12:45
 ---
 
 ## CMDER的安装
@@ -65,13 +65,13 @@ updated: 2018-05-25 13:54:16
 
 ![CMDER](WINDOWS平台下CMDER的安装和配置/11.png)
 
-### 验证CMDER是否安装成功
+## 验证CMDER是否安装成功
 
 使用`Win+R`键，打开运行界面，输入`cmder`，运行正常则`cmder`安装成功
 
 ![CMDER](WINDOWS平台下CMDER的安装和配置/12.png)
 
-### 将CMDER加入Windows的右键菜单中
+## 将CMDER加入Windows的右键菜单中
 
 在管理员权限的终端输入命令行`Cmder.exe /REGISTER ALL`即可将`cmder`加入到Windows的右键菜单中
 

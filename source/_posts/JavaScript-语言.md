@@ -31,6 +31,8 @@ function logActivity(activity = 'skiing') {
 logActivity();  // skiing
 ```
 
+<!-- more -->
+
 ## 模板字符串
 
 模板字符串提供了另一种做字符串组合的方法。

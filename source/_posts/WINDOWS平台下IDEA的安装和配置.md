@@ -23,6 +23,8 @@ categories: 开发工具
 
 当前最新版下载地址：[v2017.2.2](https://download.jetbrains.com/idea/ideaIU-2017.2.2.exe)
 
+<!-- more -->
+
 ### 安装IDEA
 
 等待下载完成，双击下载完成的exe文件，打开安装界面

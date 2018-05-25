@@ -3,9 +3,10 @@ title: NODE.JS的一些使用小技巧
 date: 2018-05-25 14:15:26
 tags: node.js
 categories: 前端知识
+updated: 2018-05-25 14:25:35
 ---
 
-## 技巧一
+## 技巧一：简化查询NODE.JS的文件树结构
 
 我们经常使用`npm ls`的时候会看见长篇的文件树结构，完全看不清自己安装了什么模块，这时候我们可以使用`npm ls --depth=0`查看安装的模块，会发现安装结构变的很清晰明了
 
@@ -19,9 +20,9 @@ categories: 前端知识
 
 ![NODE.JS](NODE-JS的一些使用小技巧/2.png)
 
-## 技巧二
+## 技巧二：使用nrm来管理NODE.JS的代理
 
-使用`npm install`下载速度简直让人抓狂，这时候我们可以使用`nrm`来管理`node`的代理，加快下载速度
+使用`npm install`下载速度简直让人抓狂，这时候我们可以使用nrm来管理NODE.JS的代理，加快下载速度
 
 ### 安装nrm
 

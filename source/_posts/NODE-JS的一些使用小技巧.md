@@ -3,7 +3,7 @@ title: NODE.JS的一些使用小技巧
 date: 2018-05-25 14:15:26
 tags: node.js
 categories: 前端知识
-updated: 2018-05-25 14:25:35
+updated: 2018-07-21 07:56:41
 ---
 
 ## 技巧一：简化查询NODE.JS的文件树结构
@@ -46,5 +46,11 @@ nrm use taobao
 ```
 
 ![NODE.JS](NODE-JS的一些使用小技巧/5.png)
+
+## 技巧三：node-sass的代理配置
+
+```bash
+npm config set sass_binary_site "https://npm.taobao.org/mirrors/node-sass"
+```
 
 -EOF-

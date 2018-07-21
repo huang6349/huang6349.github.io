@@ -3,7 +3,7 @@ title: NODE.JS的一些使用小技巧
 date: 2018-05-25 14:15:26
 tags: node.js
 categories: 前端知识
-updated: 2018-07-21 07:56:41
+updated: 2018-07-21 12:46:43
 ---
 
 ## 技巧一：简化查询NODE.JS的文件树结构

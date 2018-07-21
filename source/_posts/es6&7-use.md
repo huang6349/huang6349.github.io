@@ -1,9 +1,9 @@
 ---
-title: JavaScript 语言
+title: 使用 ES6/7 的新特性
 date: 2018-05-24 18:19:26
 tags: JavaScript
 categories: 前端知识
-updated: 2018-05-24 18:59:20
+updated: 2018-07-21 21:52:26
 ---
 
 > 注：摘抄自[dva.js 知识导图](https://github.com/dvajs/dva-knowledgemap)
